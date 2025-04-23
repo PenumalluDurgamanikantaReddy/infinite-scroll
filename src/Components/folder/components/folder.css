@@ -1,0 +1,15 @@
+.folder{
+width: 300px;
+margin-top: 2px;
+padding: 5px 0px 5px;
+ background-color: rgb(211, 211, 211);
+ color: blue;
+}
+
+.file{
+
+    width: 300px;
+    margin-top: 2px;
+    padding: 5px 0px 5px;
+     background-color: rgb(211, 211, 211);
+}
